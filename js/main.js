@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(unction () {
     var i = 0;
     for (i = 0; i < localStorage.length; i++) {
         var taskID = "task-" + i;
